@@ -1,4 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 # Developments in AI-Powered News Generation
 
@@ -186,7 +185,6 @@ To address these challenges:
 
 By 2025, generative AI is expected to further integrate into workflows across traditional and alternative media. Its potential to enhance creativity, efficiency, and personalization will redefine how audiences consume information globally.
 
-<div style="text-align: center">⁂</div>
 
 [^1]: https://www.crescendo.ai/news/latest-ai-news-and-updates
 
